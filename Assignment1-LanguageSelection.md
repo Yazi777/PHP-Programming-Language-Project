@@ -10,8 +10,8 @@ It was developed organically - meaning the original creator did not originally i
 programming language - and started as Lerdorf's writing CGI (Common Gateway Interface) programs in 
 the language C, then continuing to extend their functions. Development teams thenn went on to improve 
 and rewrite parts of PHP, thus helping form it into a programming language. Said Lerdorf on its creation, 
-"I don't know how to stop it, there was never any intent to write a programmming language. . .I have absolutely 
-no idea how to write a programming language, I just kept adding the next logical step on the way." 
+>"I don't know how to stop it, there was never any intent to write a programmming language. . .I have absolutely 
+>no idea how to write a programming language, I just kept adding the next logical step on the way." 
 
 ##Question 3
 PHP is a general-purpose, server-side scripting language, widely used for web development and often partnered with HTML. 
