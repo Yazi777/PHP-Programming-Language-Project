@@ -47,3 +47,16 @@ Inside the "body" tags, the only PHP indicators needed look like this:
 ```
 
 The line of code here, which outputs "Hello, World!", is where all PHP code would go.
+
+###Writing Comments in PHP
+
+```{r}
+<?php
+    #Comments in PHP can be written like this
+    
+    //or like this
+    
+    /* or even like this
+    for multiple lines of comments */
+?>
+```
