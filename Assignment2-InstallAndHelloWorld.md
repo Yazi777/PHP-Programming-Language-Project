@@ -24,3 +24,16 @@ For example, <a href="http://web.simmons.edu/~dacostay/PHPPage.php">HERE</a> is 
 ###Boiler-plate 
 
 Unlike Java, there is no strictly-PHP boiler-plate code needed before you start writing code. On the other hand, since PHP goes hand-in-hand with HTML, there is a block of HTML boiler-plate that looks like this: 
+```{r}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title></title>
+    </head>
+    <body>
+        
+    </body>
+</html>
+
+```
