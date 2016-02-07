@@ -17,7 +17,8 @@ PHP programs can be written in WebMatrix, by choosing "New Empty Site" and then 
 
 ###Running Programs in PHP
 
-Once you have written a PHP program and saved it to your computer, use WinSCP to move the program to your "public_html" folder. Once there, your executed program can be viewed by visiting "web.simmons.edu/~yourusername/programname.php".
+Once you have written a PHP program and saved it to your computer, use WinSCP to move the program to your "public_html" folder. Once there, your executed program can be viewed by visiting a link that will look like this:  
+"web.simmons.edu/~yourusername/programname.php".
 
 For example, <a href="http://web.simmons.edu/~dacostay/PHPPage.php">HERE</a> is a very simple "Hello, World!" program that I wrote. 
 
