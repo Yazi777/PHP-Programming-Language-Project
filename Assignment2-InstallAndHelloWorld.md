@@ -37,3 +37,12 @@ Unlike Java, there is no strictly-PHP boiler-plate code needed before you start 
 </html>
 
 ```
+
+Inside the <body> tags, the only PHP indicators needed look like this:
+```{r}
+<?php
+     echo "Hello, World!";
+?>
+```
+
+The line of code here, which outputs "Hello, World!", is where all PHP code would go.
