@@ -9,7 +9,7 @@ PHP can be installed on any operating system (Windows, Mac, Unix/Linux). Since t
 Visit <a href="https://www.microsoft.com/web/webmatrix/">THIS LINK</a> to download WebMatrix3. 
 It is a web development tool for Windows, that enables you to write code in HTML, CSS, JavaScript, CSHTML, VBHTML, C#, ASPX (VB), Classic ASP, PHP, TXT, and XML. 
 
-Next, for Simmons students, visit <a href="http://winscp.net/eng/download.php">THIS LINK</a> to download WinSCP, which is a free, open source FTP application. CLick on the Installation Package to begin the download, then follow <a href="http://web.simmons.edu/~gslislab/website/howto/PC-MAC-howto-UsingFTPandYourSimmonsWebSpace.pdf">THESE INSTRUCTIONS</a> to get connected to the Simmons web server (this requires a Simmons College username and password) and begin transferring files.
+Next, for Simmons students, visit <a href="http://winscp.net/eng/download.php">THIS LINK</a> to download WinSCP, which is a free, open source FTP application. Click on the Installation Package to begin the download, then follow <a href="http://web.simmons.edu/~gslislab/website/howto/PC-MAC-howto-UsingFTPandYourSimmonsWebSpace.pdf">THESE INSTRUCTIONS</a> to get connected to the Simmons web server (this requires a Simmons College username and password) and begin transferring files.
 
 ###Writing Programs in PHP
 
