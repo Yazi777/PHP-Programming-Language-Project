@@ -50,13 +50,4 @@ The line of code here, which outputs "Hello, World!", is where all PHP code woul
 
 ###Writing Comments in PHP
 
-```{r}
-<?php
-    #Comments in PHP can be written like this
-    
-    //or like this
-    
-    /* or even like this
-    for multiple lines of comments */
-?>
-```
+Comments in PHP can be written by using a # sign, two slashes //, or (for multiple lines of comments) as /* */ with the comment written in between the two asterisks.
