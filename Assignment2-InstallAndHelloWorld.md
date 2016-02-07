@@ -38,7 +38,7 @@ Unlike Java, there is no strictly-PHP boiler-plate code needed before you start 
 
 ```
 
-Inside the <body> tags, the only PHP indicators needed look like this:
+Inside the "<body>" tags, the only PHP indicators needed look like this:
 ```{r}
 <?php
      echo "Hello, World!";
