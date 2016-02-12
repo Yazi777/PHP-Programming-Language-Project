@@ -5,9 +5,9 @@
 ###Naming
 
 In PHP, all variable names look like this: 
-'''{r}
+```{r}
 $myVariable
-'''
+```
 No matter if the variable in question is a string, int, array, boolean, etc., it always begins with a $ (dollar sign).
 As far as naming conventions for variables go, PHP does not internally follow strict naming conventions; they are largely 
 community standards, or a matter of personal preference.
