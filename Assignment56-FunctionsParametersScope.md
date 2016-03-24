@@ -28,3 +28,12 @@ If a variable is declared in the main body of code, and then a variable with the
 
 ###Overwritten Variables??
 However, if a variable is declared in the main body of code, and then a variable with the same name is declared in a function, the first version of the variable DOES NOT get overwritten.
+
+###Global Variables
+In PHP, any variable declared outside of a function automatically has global scope - but it also can only be accessed from outside a function. However, if you want to access the variables inside a function, do this by using the "global" keyword before calling the variable inside the function. Example:
+```{r}
+$x = 3;
+function globe(){
+  global $x;
+}
+```
