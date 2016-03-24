@@ -37,3 +37,8 @@ function globe(){
   global $x;
 }
 ```
+
+###Pass-By?
+By default, variables are passed by value - however, there is an option to pass variables by reference.
+
+###Assignments
